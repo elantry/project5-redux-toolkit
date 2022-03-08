@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/project5-redux-toolkit/static/js/main.3c525219.chunk.js",
+    "main.js.map": "/project5-redux-toolkit/static/js/main.3c525219.chunk.js.map",
+    "runtime-main.js": "/project5-redux-toolkit/static/js/runtime-main.7f328158.js",
+    "runtime-main.js.map": "/project5-redux-toolkit/static/js/runtime-main.7f328158.js.map",
+    "static/js/2.467c0893.chunk.js": "/project5-redux-toolkit/static/js/2.467c0893.chunk.js",
+    "static/js/2.467c0893.chunk.js.map": "/project5-redux-toolkit/static/js/2.467c0893.chunk.js.map",
+    "index.html": "/project5-redux-toolkit/index.html",
+    "static/js/2.467c0893.chunk.js.LICENSE.txt": "/project5-redux-toolkit/static/js/2.467c0893.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f328158.js",
+    "static/js/2.467c0893.chunk.js",
+    "static/js/main.3c525219.chunk.js"
+  ]
+}
